@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b6cefc65-c936-42d7-84fd-c7fac4661bb6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/create_course.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/delete_course.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/edit_course.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crud1/crud.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1/crud.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1/insert.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../addpark.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../index.php" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1fKSbeqLfTYjXZgBEucoqA4ENHT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b6cefc65-c936-42d7-84fd-c7fac4661bb6" name="Default Changelist" comment="" />
+      <created>1595965363997</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595965363997</updated>
+      <workItem from="1595965366796" duration="5763000" />
+      <workItem from="1595976392112" duration="85000" />
+      <workItem from="1596015948441" duration="9358000" />
+      <workItem from="1596042262488" duration="13507000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="123" width="428" height="484" key="FileChooserDialogImpl" timestamp="1595976475583">
+      <screen x="0" y="0" width="1366" height="731" />
+    </state>
+    <state x="463" y="123" width="428" height="484" key="FileChooserDialogImpl/0.0.1366.731@0.0.1366.731" timestamp="1595976475583" />
+    <state x="505" y="86" width="344" height="558" key="NewPhpClassDialog" timestamp="1595976417634">
+      <screen x="0" y="0" width="1366" height="731" />
+    </state>
+    <state x="505" y="86" width="344" height="558" key="NewPhpClassDialog/0.0.1366.731@0.0.1366.731" timestamp="1595976417634" />
+    <state x="497" y="291" width="359" height="149" key="NewPhpFileDialog" timestamp="1596051445807">
+      <screen x="0" y="0" width="1366" height="731" />
+    </state>
+    <state x="497" y="291" width="359" height="149" key="NewPhpFileDialog/0.0.1366.731@0.0.1366.731" timestamp="1596051445807" />
+  </component>
+</project>
